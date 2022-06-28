@@ -1,1 +1,1 @@
-# Vadim_Ksendzov_homework
+# Stamal_Tanya
