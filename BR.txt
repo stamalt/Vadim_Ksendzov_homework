@@ -1,0 +1,15 @@
+Summary ________
+Project ________
+Components ________
+Version _______
+Severity _______
+Priority _______
+Status _________
+Author ________
+Assigned to ______
+Environment _______Steps t[D[D[D[D[D[D[D
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3~[3~[3~[3~[3~[C[C[C[C[C[C___
+Steps to reproduse_______
+Result _________
+Expected result ________
