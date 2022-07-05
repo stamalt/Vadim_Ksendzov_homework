@@ -1,0 +1,14 @@
+Bag _report:
+Summary______________
+Project______________
+Component____________
+Version______________
+Severity_____________
+Priority_____________
+Status_______________
+Author_______________
+Assigned to__________
+Environment__________
+Steps to reproduce___
+Result_______________
+Expected result______
